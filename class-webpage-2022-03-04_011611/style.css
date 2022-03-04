@@ -1,0 +1,22 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background-image: url("https://cdn.glitch.com/40a9b67a-756c-4201-9d06-0020c97629ce%2FColorful-Circle-Simple-Background-Image-1.jpg?v=1601313173734");
+  backround-repeat: repeat-y;
+}
+
+h1 {
+  font-family: "Lobster", cursive;
+  color: #e1234578;
+  font-size: 30px;
+  backround-color: orange;
+}
+#para1 {
+  color: red;
+}
+
+.column1of3 float: left;
+width: 350px;
+margin: 10px;

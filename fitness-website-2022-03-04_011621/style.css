@@ -1,0 +1,38 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif, 'Bebas Neue', cursive;
+  margin: 2em;
+}
+
+h1 {
+  font-style:'Bebas Neue', cursive;
+  color: Black;
+}
+
+img {
+  opacity:;
+}
+
+
+body{
+  background-image: url("https://cdn.glitch.com/f653565d-ad12-4ae5-935f-492f32af842e%2Fpearl%20white.jpeg?v=1606536828418");
+}
+
+
+p{
+  color: Black;
+  font-style:'Bebas Neue', cursive;
+}
+
+div.round2 {
+  border: 2px solid red;
+  border-radius: 8px;
+}
+}
+
+
+#print-button {
+	display: none;
+}
+

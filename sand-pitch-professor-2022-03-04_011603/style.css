@@ -1,0 +1,33 @@
+/* CSS files add styling rules to your content */
+
+
+
+body 
+{
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  opacity: 100;
+  background-image: url("https://cdn.glitch.com/692eed59-654c-4473-ae56-5bd453577994%2Fdark-low-poly-background.jpg?v=1602046875003");
+  
+  
+}
+
+
+
+
+
+
+h1 {
+  font-style: italic;
+  color: Green;
+}
+
+
+
+
+
+
+p {
+ color: Green; 
+  
+}
