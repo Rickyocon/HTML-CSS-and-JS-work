@@ -1,0 +1,42 @@
+/* CSS files add styling rules to your content */
+html {
+  background-color: black; /* Used if the image is unavailable */
+  height: 500px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+body {
+  margin: 2em;
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  opacity: 100;
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+  font-style: italic;
+  color: white;
+}
+
+/* CSS files add styling rules to your content */
+
+center {
+  color: white;
+}
+
+button {
+  height: 50px;
+  width: 300px;
+  border-radius: 8px;
+  color: white;
+  font-size: 20px;
+}
+
+button:hover
+{
+  background-color: #8B0000;
+}
+
